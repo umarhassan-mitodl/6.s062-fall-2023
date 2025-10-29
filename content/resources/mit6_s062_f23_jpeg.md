@@ -8,9 +8,10 @@ file_type: image/jpeg
 image_metadata:
   caption: "The use of digital tools in the classroom isn't limited to typing on computers.\
     \ This course explores generative AI in K\u201312 education. (Image courtesy of\
-    \ [Nenad Stojkovic](https://flic.kr/p/2mj4Hma) on Flickr. License: CC BY.)"
-  credit: 'Image courtesy of [Nenad Stojkovic](https://flic.kr/p/2mj4Hma) on Flickr.
-    License: CC BY.'
+    \ {{% resource_link \"21585225-63b9-4d0a-b277-560fef90af8a\" \"Nenad Stojkovic\"\
+    \ %}} on Flickr. License: CC BY.)"
+  credit: 'Image courtesy of {{% resource_link "21585225-63b9-4d0a-b277-560fef90af8a"
+    "Nenad Stojkovic" %}} on Flickr. License: CC BY.'
   image-alt: Child's hands typing at a laptop.
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by/4.0/
@@ -28,4 +29,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-The use of digital tools in the classroom isn't limited to typing on computers. This course explores generative AI in K–12 education. (Image courtesy of [Nenad Stojkovic](https://flic.kr/p/2mj4Hma) on Flickr. License: CC BY.)
+The use of digital tools in the classroom isn't limited to typing on computers. This course explores generative AI in K–12 education. (Image courtesy of {{% resource_link "21585225-63b9-4d0a-b277-560fef90af8a" "Nenad Stojkovic" %}} on Flickr. License: CC BY.)
